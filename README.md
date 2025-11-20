@@ -7,6 +7,7 @@ This project presents an interactive Ecommerce Sales Dashboard built using Micro
 The Ecommerce Sales Dashboard consolidates sales, profit, and customer-related data into a single analytical interface. With intuitive data visualizations and slicers, users can explore insights across time periods, states, categories, and payment behavior.
 
 📊 **Visual Insights Included**:
+
 **1. Sales by Customer Name**:
 
 A bar chart showing customer-wise contribution to total sales. This helps in identifying top buyers and customer distribution.
@@ -15,11 +16,11 @@ A bar chart showing customer-wise contribution to total sales. This helps in ide
 
 A donut chart dividing total quantity into major categories:
 
-Clothing
+1. Clothing
 
-Electronics
+2. Electronics
 
-Furniture
+3. Furniture
 
 Useful for analyzing product category performance.
 
@@ -60,5 +61,7 @@ Horizontal bar chart showcasing profit contributions across sub-categories such 
 5. Tables
 
 Helps spotlight high- and low-profit product lines.
+
+
 <img width="881" height="494" alt="sd1" src="https://github.com/user-attachments/assets/a2392e4d-b8e5-4bb8-a84b-9e7e7f0c5d77" />
 
